@@ -21,3 +21,6 @@ M.E., Fagan (1976).
 * Mitra, T. (2008). "Documenting software architecture". IBM Developer Works. available in: <https://www.ibm.com/developerworks/views/rational/libraryview.jsp?
 \&contentarea\_by=Rational\&search\_by=documenting+software+architecture>.
 
+* OBERKAMPF, W.L., TRUCANO, T.G., Verification and validation benchmarks,
+Nuclear Eng. Design, Validation and Uncertainty Estimation Department,
+Sandia National Laboratories, vol 238 p. 716-743, 2007.

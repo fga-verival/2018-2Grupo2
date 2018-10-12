@@ -8,6 +8,8 @@
 | 10/10/2018 | 0.1 | Criação do Documento | [Gabriel Ziegler] |
 | 11/10/2018 | 0.2 | Adicionando Inspeções |  [Lucas Hiroshi] |
 | 11/10/2018 | 0.3 | Adicionando Fagan |  [Lucas Hiroshi] |
+| 11/10/2018 | 0.4 | Adicionando Peer-Review |  [Lucas Hiroshi] |
+
 
 # Referencial Teórico
 
@@ -63,3 +65,16 @@ Durante essa fase os defeitos encontrados durante a reunião são resolvidos pel
 
 * Continuação 
 Nesta fase todos os defeitos encontrados devem ter sido arrumados. O moderador é responsável por verificar se todos os defeitos foram arrumados e que nenhum defeito novo foi inserido durante o processo de arrumar o item.
+
+## Peer-Review
+
+## Definição
+A revisão por pares é uma análise em dupla aonde os envolvidos realizam as
+mesmas funções durante a revisão. Por exemplo, os analistas de sistemas revisando as
+especificações do projeto e os programadores revisando os códigos fontes. Esse tipo de
+revisão pode ser conduzida por uma ou mais duplas. A revisão é normalmente conduzida
+observando a eficiência, estilo e aderência aos padrões
+
+Os pares que conduzem a revisão devem ser instruídos em como
+conduzir essas revisões e os indivíduos que formam as duplas devem ter o mesmo nível de
+conhecimento sobre os principais tópicos.
