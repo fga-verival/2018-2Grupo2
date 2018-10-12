@@ -6,7 +6,7 @@
 | Data       | Versão | Descrição            |         Autor             |
 |:----------:|:------:|:--------------------:|:-------------------------:|
 | 10/10/2018 | 0.1 | Criação do Documento | [Gabriel Ziegler] |
-| 11/10/2018 | 0.2 | Adicionando Inspeções |  [Lucas Hiroshi] |
+| 11/10/2018 | 0.2 | Adicionando Planejamento, Preparação, Reunião |  [Lucas Hiroshi] |
 
 # Aplicando Fagan
 
