@@ -50,20 +50,20 @@ Para que uma Inspeção de Fagan prossiga de forma correta e possua bons resulta
 * Registrador: Responsável por anotar os defeitos sendo levantados durante o processo de inspeção.
 
 * Inspetor: Função normalmente realizada por quase todo o time independente do papel que tenha sido designado a ele, com o objetivo de procurar por erros. Essa é uma atividade continua durante quase todo o processo de desenvolvimento do produto. 
-
-* Planejamento
+#### Fases
+* Planejamento<br>
 Ela começa pela preparação dos materiais, definição de equipe e preparação de um local de reunião. 
 
-* Preparação individual
+* Preparação individual<br>
 Os participantes da revisão revisam o item a ser inspecionado e os materiais de apoio necessários e se preparam para a reunião anotando as questões e possíveis defeitos.
 
-* Reunião de Inspeção
+* Reunião de Inspeção<br>
 Na qual os defeitos são expostos
 
-* Retrabalho
+* Retrabalho<br>
 Durante essa fase os defeitos encontrados durante a reunião são resolvidos pelo autor. Basicamente os defeitos são arrumados ate que as critérios de aceitação sejam atendidos.
 
-* Continuação 
+* Continuação<br>
 Nesta fase todos os defeitos encontrados devem ter sido arrumados. O moderador é responsável por verificar se todos os defeitos foram arrumados e que nenhum defeito novo foi inserido durante o processo de arrumar o item.
 
 ## Peer-Review
