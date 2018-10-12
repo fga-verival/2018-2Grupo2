@@ -7,7 +7,7 @@
 |:----------:|:------:|:--------------------:|:-------------------------:|
 | 10/10/2018 | 0.1 | Criação do Documento | [Gabriel Ziegler] |
 | 11/10/2018 | 0.2 | Adicionando Planejamento, Preparação, Reunião |  [Lucas Hiroshi] |
-
+| 12/10/2018 | 0.3 | Adicionando duplas |  [Lucas Hiroshi] |
 # Aplicando Fagan
 
 ## Planejamento
@@ -26,8 +26,8 @@ Foram definidos os papéis dos membros e que seria dividido em duplas sendo cada
 | Duplas    |
 |:----------:
 |Cleber & Igor  |
-|Gabriel Z. & Gabriel A.      | 
-
+|Gabriel Z. & Gabriel A. | 
+|Vinicius F. & Pablo D. | 
 
 ## Preparação individual
 A fase de Apresentação de Fagan não foi necessária, pois os membros da inspeção conhecem os documentos a serem avaliados e inclusive já produziram semelhantes.
