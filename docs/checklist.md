@@ -55,5 +55,5 @@ Ex. Regras de Negócio
 
 ## Tabela de Inspeção
 
-| ID| Defeito | Criticidade | Proposta de reparo | Prazo sugerido p/ reparos | Observações |
-|:-:|:-------:|:-----------:|:------------------:|:-------------------------:|:-----------:| 
+| ID| Defeito | Não se aplica | Criticidade | Proposta de reparo | Prazo sugerido p/ reparos | Observações |
+|:-:|:-------:|:-------------:|:-----------:|-------------------:|:-------------------------:|:-----------:|
