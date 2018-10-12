@@ -38,9 +38,20 @@
 | 23 | Ao criar uma tabela, deixe sempre a PK por último. |
 | 24 | A cardinalidade está definida de forma correta nos diagramas |
 
+# Criticidade
+* 1 - Baixo
+Deve ser consertado para se adequar ao padrão, porém não apresenta um risco iminente ao projeto
+Ex. Erros de escrita, variaveis com nomes não significativos
 
+* 2 - Médio
+Apresenta um risco iminente ao projeto
+Ex. Variáveis com tipo errado, Complexidade
+
+* 3 - Alto
+Parem tudo e arrumem isso! 
+Ex. Regras de Negócio
 
 ## Tabela de Inspeção
 
-| ID| Defeito | Criticidade | Proposta de reparo | Prazo sugerido p/ reparos |
-|:-:|:-------:|:-----------:|:------------------:|:-------------------------:|
+| ID| Defeito | Criticidade | Proposta de reparo | Prazo sugerido p/ reparos | Observações |
+|:-:|:-------:|:-----------:|:------------------:|:-------------------------:|:-----------:| 
