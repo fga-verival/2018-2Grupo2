@@ -8,7 +8,7 @@
 | 12/10/2018 | 0.1 | Criação do Documento | [Cleber Júnior] e [Igor Araujo] |
 | 12/10/2018 | 0.2 | Propostas de Melhorias adicionadas | [Cleber Júnior] e [Igor Araujo]  |
 
-# Vinicius Ferreira & Pablo Diego
+# Cléber J. & Igor A.
 ## Tabela de Melhorias
 
 

@@ -41,15 +41,15 @@
 | 23 | A cardinalidade está definida de forma correta nos diagramas |
 
 # Criticidade
-* 1 - Baixo
+* 1 - Baixo<br>
 Deve ser consertado para se adequar ao padrão, porém não apresenta um risco iminente ao projeto<br>
 Ex. Erros de escrita, variaveis com nomes não significativos
 
-* 2 - Médio
+* 2 - Médio<br>
 Apresenta um risco iminente ao projeto<br>
 Ex. Variáveis com tipo errado, Complexidade
 
-* 3 - Alto
+* 3 - Alto<br>
 Parem tudo e arrumem isso!<br>
 Ex. Regras de Negócio
 
