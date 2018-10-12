@@ -13,7 +13,7 @@
 ## Planejamento
 Durante uma reunião no dia 10/10/18 com os integrante do time foi apresentado ao time o documento no qual realizariamos a inspeção um modelo de dados.
 
-Foram definidos os papéis dos membros e que seria dividido em duplas sendo utilizado o peer-review sendo cada uma responsável por realizar os checklists de questões para avaliação do cumprimento de seus pontos principais.
+Foram definidos os papéis dos membros e que seria dividido em duplas sendo utilizado o peer-review cada dupla responsável por realizar os checklists de questões para avaliação do cumprimento de seus pontos principais.
 
 | Função       | Responsável |
 |:----------:|:------:|
