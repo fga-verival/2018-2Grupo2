@@ -5,7 +5,8 @@
 | Data       | Versão | Descrição            |         Autor             |
 |:----------:|:------:|:--------------------:|:-------------------------:|
 | 10/10/2018 | 0.1 | Criação do Documento | [Gabriel Ziegler] |
-| 12/10/2018 | 0.2 | Criação do Documento | [Lucas Hiroshi] |
+| 12/10/2018 | 0.2 | Template Tabela | [Lucas Hiroshi] |
 
 |   ID  | Proposta de melhoria |
 |:-----:|:---------------------|
+| X     | lorem ipsum |
