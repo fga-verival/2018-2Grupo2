@@ -1,3 +1,12 @@
+[Lucas Hiroshi]: https://github.com/hiroshi18
+
+### Histórico de Revisões
+
+| Data       | Versão | Descrição            |         Autor             |
+|:----------:|:------:|:--------------------:|:-------------------------:|
+| 11/10/2018 | 0.1 | Criação do Documento | [Lucas Hiroshi] |
+| 11/10/2018 | 0.2 | Adicionando Referências |  [Lucas Hiroshi] |
+
 # Referências
 
 * Fagan, Michael E (2001) [1986]. "Advances in Software Inspections". Pioneers and Their Contributions to Software Engineering (PDF). p. 335. doi:10.1007/978-3-642-48354-714. ISBN 978-3-540-42290-7.
