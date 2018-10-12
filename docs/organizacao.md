@@ -15,11 +15,19 @@ Durante uma reunião no dia 10/10/18 com os integrante do time foi apresentado a
 
 Foram definidos os papéis dos membros e que seria dividido em duplas sendo cada uma responsável por realizar os checklists de questões para avaliação do cumprimento de seus pontos principais.
 
+| Função       | Responsável |
+|:----------:|:------:|
 |Moderador  |  Lucas Hiroshi Horinouchi | 
 |Autor      |  Desconhecido             |  
 |Leitor     |  Todos os membros do time | 
 |Registrador|  Todos os membros do time | 
 |Inspetor   |  Todos os membros do time | 
+
+| Duplas    |
+|:----------:
+|Cleber & Igor  |
+|Gabriel Z. & Gabriel A.      | 
+
 
 ## Preparação individual
 A fase de Apresentação de Fagan não foi necessária, pois os membros da inspeção conhecem os documentos a serem avaliados e inclusive já produziram semelhantes.
