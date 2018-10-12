@@ -30,7 +30,7 @@
 | 15 | Inexistente | | | | |
 | 16 | Inexistente | | | | |
 | 17 | Inexistente | | | | |
-| 18 | Inexistente | | | | |
+| 18 | Existente | Adicionar comentários sobre o porquê usar essa implementação e qual a utilidade da tabela comercializa | | | |
 | 19 | Inexistente | | | | |
 | 20 | Inexistente | | | | |
 | 21 | Existente | 2 | As tabelas PERFUMARIA, TELEFONE, RECEITA e COMERCIALIZA não possuem chave primária | 2 h | |
