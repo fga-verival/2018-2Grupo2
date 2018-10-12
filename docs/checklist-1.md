@@ -8,7 +8,7 @@
 |:----------:|:------:|:--------------------:|:-------------------------:|
 | 10/10/2018 | 0.1 | Criação do Documento | [Lucas Hiroshi] |
 
-# Gabriel Z. & Gabriel A.
+# Cléber & Igor
 ## Tabela de Inspeção
 
 | ID| Defeito | Criticidade | Proposta de reparo | Prazo sugerido p/ reparos | Observações |

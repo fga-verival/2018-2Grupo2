@@ -16,7 +16,7 @@
 
 | ID| Descrição do defeito | 
 |:-:|:---------------------|
-| 1 | **Os objetos do banco de dados seguem o padrão de nomenclatura definido?** |
+| 1 | **Os objetos do banco de dados seguem o padrão de nomenclatura(Oracle) definido?** |
 | 2 | **O Dicionário de Dados foi criado ou atualizado?** |
 | 3 | O Dicionário de Dados foi armazenado por meio de comentários de tabelas e colunas?|
 | 4 | Todos os comentários explicam a função e necessidade de cada tabela? |
@@ -36,10 +36,9 @@
 | 18 | **O Modelo de Dados está claro e objetivo?** |
 | 19 | Você, que não elaborou este modelo, consegue entender o que se pretende modelar ou o que foi implementado? |
 | 20 | Você acredita que alguém, que não esteja familiarizado com o projeto, consegue entender o Modelo de Dados? |
-| 21 | Os nomes dos objetos são intuitivos e seguem o padrão abaixo. Sendo que, o ORACLE só permite objetos com nomenclatura de até 30 caracteres.<br>Nome do check: CKC + Nome do Campo + Nome da tabela (Caso ultrapasse 30 caracteres, abrevie o nome da tabela e se o check for único no banco pode ser CKC + Nome do Campo).<br>Nome da PK: PK_+ Nome da tabela<br>Nome da FK:  FK+ Abreviação do módulo + próximo código da FK do módulo (5 dígitos, complementados com zeros a esquerda quando o número for menor) + nome da tabela referenciada<br>Nome dos índices: Todos os índices referentes a FKs sejam criados com a mesma nomenclatura da constraint, além disso, os índices que não forem referentes a FK’s deverão ser criados da seguinte forma: <br>NOMEDATABELA_XX, onde XX representa a quantidade de índices que já existem na tabela + 1 |
-| 22 | Toda tabela deve ter PK. Sendo que, as novas tabelas devem conter apenas uma chave na PK. |
-| 23 | Ao criar uma tabela, deixe sempre a PK por último. |
-| 24 | A cardinalidade está definida de forma correta nos diagramas |
+| 21 | Toda tabela deve ter PK. Sendo que, as novas tabelas devem conter apenas uma chave na PK. |
+| 22 | Ao criar uma tabela, deixe sempre a PK por último. |
+| 23 | A cardinalidade está definida de forma correta nos diagramas |
 
 # Criticidade
 * 1 - Baixo
