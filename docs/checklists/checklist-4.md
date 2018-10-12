@@ -1,11 +1,11 @@
-[Rodrigo Oliveira]: https://github.com/rodrigocam
+[Rodrigo Oliveira]: https://github.com/pablodiegoss
 
 ### Histórico de Revisões
 
 | Data       | Versão | Descrição            |         Autor             |
 |:----------:|:------:|:--------------------:|:-------------------------:|
-| 12/10/2018 | 0.1 | Criação do Documento | [Rodrigo] |
-| 12/10/2018 | 0.2 | Inserindo as inpeções | [Rodrigo] |
+| 12/10/2018 | 0.1 | Criação do Documento | [Rodrigo Oliveira] |
+| 12/10/2018 | 0.2 | Inserindo as inpeções | [Rodrigo Oliveira] |
 
 
 # Rodrigo
