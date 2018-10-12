@@ -15,3 +15,4 @@ Repositório oficial da disciplina de Testes de Software, grupo 2
 |Lucas Hiroshi Horinouchi |[@Hiroshi18](https://github.com/Hiroshi18)|
 |Gabriel Gomes Ziegler |[@gabrielziegler3](https://github.com/gabrielziegler3)|
 |Vinicius Ferreira Bernardo de Lima|[@ViniciusBernardo](https://github.com/ViniciusBernardo)|
+|Rodrigo Oliveira Campos|[@rodrigocam](https://github.com/rodrigocam)|
