@@ -11,7 +11,7 @@
 
 ## Checklist
 
-| # | Descrição do defeito | 
+| ID| Descrição do defeito | 
 |:-:|:---------------------|
 | 1 | **Os objetos do banco de dados seguem o padrão de nomenclatura definido?** |
 | 2 | **O Dicionário de Dados foi criado ou atualizado?** |
@@ -42,5 +42,5 @@
 
 ## Tabela de Inspeção
 
-| Defeito | Criticidade | Proposta de reparo | Prazo sugerido p/ reparos |
-|:-------:|:-----------:|:------------------:|:-------------------------:|
+| ID| Defeito | Criticidade | Proposta de reparo | Prazo sugerido p/ reparos |
+|:-:|:-------:|:-----------:|:------------------:|:-------------------------:|
