@@ -9,9 +9,9 @@
 | Data       | Versão | Descrição            |         Autor             |
 |:----------:|:------:|:--------------------:|:-------------------------:|
 | 10/10/2018 | 0.1 | Criação do Documento | [Lucas Hiroshi] |
-| 12/10/2018 | 0.1 | Criação do Documento | [Vinicius Ferreira], [Pablo Silva] |
+| 12/10/2018 | 0.2 | Preenchimento do Checklist | [Vinicius Ferreira], [Pablo Silva] |
 
-# Vinicius F. & Pablo D.
+# Vinicius Ferreira & Pablo Diego
 ## Tabela de Inspeção
 
 | ID| Defeito  | Criticidade | Proposta de reparo | Prazo sugerido p/ reparos | Observações |
