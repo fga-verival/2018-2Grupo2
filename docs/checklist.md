@@ -1,5 +1,6 @@
 [Gabriel Ziegler]: https://github.com/gabrielziegler3
 [Cleber Júnior]: https://github.com/cjjcastro
+[Lucas Hiroshi]: https://github.com/hiroshi
 
 ### Histórico de Revisões
 
@@ -8,6 +9,8 @@
 | 10/10/2018 | 0.1 | Criação do Documento | [Gabriel Ziegler] |
 | 11/10/2018 | 0.2 | Inserindo a primeira versão do checklist | [Cleber Júnior] |
 | 11/10/2018 | 0.3 | Inserindo a tabela de inspeção e atualizando a tabela de checklist | [Cleber Júnior] |
+| 12/10/2018 | 0.4 | Atualizando a tabela de inspeção e tabela de checklist | [Lucas Hiroshi] |
+| 12/10/2018 | 0.5 | Inserindo Criticidade | [Lucas Hiroshi] |
 
 ## Checklist
 
@@ -40,15 +43,15 @@
 
 # Criticidade
 * 1 - Baixo
-Deve ser consertado para se adequar ao padrão, porém não apresenta um risco iminente ao projeto
+Deve ser consertado para se adequar ao padrão, porém não apresenta um risco iminente ao projeto<br>
 Ex. Erros de escrita, variaveis com nomes não significativos
 
 * 2 - Médio
-Apresenta um risco iminente ao projeto
+Apresenta um risco iminente ao projeto<br>
 Ex. Variáveis com tipo errado, Complexidade
 
 * 3 - Alto
-Parem tudo e arrumem isso! 
+Parem tudo e arrumem isso!<br>
 Ex. Regras de Negócio
 
 ## Tabela de Inspeção
