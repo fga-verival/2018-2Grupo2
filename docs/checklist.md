@@ -6,12 +6,13 @@
 | Data       | Versão | Descrição            |         Autor             |
 |:----------:|:------:|:--------------------:|:-------------------------:|
 | 10/10/2018 | 0.1 | Criação do Documento | [Gabriel Ziegler] |
-| 11/10/2018 | 0.2 | Inserindo a primeira versão do checklist | [Cleber Júnior]
+| 11/10/2018 | 0.2 | Inserindo a primeira versão do checklist | [Cleber Júnior] |
+| 11/10/2018 | 0.3 | Inserindo a tabela de inspeção e atualizando a tabela de checklist | [Cleber Júnior] |
 
 ## Checklist
 
-| # | Descrição do defeito | Criticidade | Proposta de reparo | Prazo sugerido p/ reparos |
-|:-:|:--------------------:|:-----------:|:------------------:|:-------------------------:|
+| # | Descrição do defeito | 
+|:-:|:---------------------|
 | 1 | **Os objetos do banco de dados seguem o padrão de nomenclatura definido?** |
 | 2 | **O Dicionário de Dados foi criado ou atualizado?** |
 | 3 | O Dicionário de Dados foi armazenado por meio de comentários de tabelas e colunas?|
@@ -35,3 +36,11 @@
 | 21 | Os nomes dos objetos são intuitivos e seguem o padrão abaixo. Sendo que, o ORACLE só permite objetos com nomenclatura de até 30 caracteres.<br>Nome do check: CKC + Nome do Campo + Nome da tabela (Caso ultrapasse 30 caracteres, abrevie o nome da tabela e se o check for único no banco pode ser CKC + Nome do Campo).<br>Nome da PK: PK_+ Nome da tabela<br>Nome da FK:  FK+ Abreviação do módulo + próximo código da FK do módulo (5 dígitos, complementados com zeros a esquerda quando o número for menor) + nome da tabela referenciada<br>Nome dos índices: Todos os índices referentes a FKs sejam criados com a mesma nomenclatura da constraint, além disso, os índices que não forem referentes a FK’s deverão ser criados da seguinte forma: <br>NOMEDATABELA_XX, onde XX representa a quantidade de índices que já existem na tabela + 1 |
 | 22 | Toda tabela deve ter PK. Sendo que, as novas tabelas devem conter apenas uma chave na PK. |
 | 23 | Ao criar uma tabela, deixe sempre a PK por último. |
+| 24 | A cardinalidade está definida de forma correta nos diagramas |
+
+
+
+## Tabela de Inspeção
+
+| Defeito | Criticidade | Proposta de reparo | Prazo sugerido p/ reparos |
+|:-------:|:-----------:|:------------------:|:-------------------------:|
